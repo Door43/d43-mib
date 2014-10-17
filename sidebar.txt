@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mib:home|Door43 (mib)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mib|d43-mib repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mib/archive/master.zip|d43-mib.zip]]
+
+**Recent Changes**
+{{changes>ns = mib}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mib|Ethnologue data]]
+
